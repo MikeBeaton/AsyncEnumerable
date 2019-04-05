@@ -5,7 +5,7 @@
     <ApplicationIcon />
     <OutputTypeEx>exe</OutputTypeEx>
     <StartupObject />
-    <SignAssembly>True</SignAssembly>
+    <SignAssembly>False</SignAssembly>
     <AssemblyOriginatorKeyFile>../../AsyncEnumerable.pfx</AssemblyOriginatorKeyFile>
     <DelaySign>False</DelaySign>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
